@@ -1,0 +1,4 @@
+2022/10/06 17:06:01 [alert] 41375#0: setrlimit(RLIMIT_NOFILE, 100000) failed (1: Operation not permitted)
+2022/10/06 17:06:01 [alert] 41376#0: setrlimit(RLIMIT_NOFILE, 100000) failed (1: Operation not permitted)
+2022/10/06 17:06:01 [alert] 41377#0: setrlimit(RLIMIT_NOFILE, 100000) failed (1: Operation not permitted)
+2022/10/06 17:06:01 [alert] 41378#0: setrlimit(RLIMIT_NOFILE, 100000) failed (1: Operation not permitted)
